@@ -1,4 +1,4 @@
-<h3 align="center"><samp>I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="kl0907.github.io">K Lin</a></b></samp></h3>
+<h3 align="center"><samp>I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kl0907.github.io">K Lin</a></b></samp></h3>
 <p align="center"><br>
     <a href="www.linkedin.com/in/kl0907">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
