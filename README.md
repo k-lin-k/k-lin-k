@@ -1,5 +1,10 @@
 ### Hi there 👋
+<a href="www.linkedin.com/in/kl0907">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+I'm K Lin
+Languages: English (American/British), Chinese (simplified/traditional), Japanese (elementary)
 
+    
 <!--
 **kl0907/kl0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
