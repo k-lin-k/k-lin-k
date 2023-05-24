@@ -1,6 +1,7 @@
 <h3><samp>I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kl0907.github.io">K Lin</a></b></samp></h3>
 <p><br>
-    [![linkedin]([https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/kl0907)
+    <a href="https:/www.linkedin.com/in/kl0907">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
 <br>
 🌎 Languages:
  <ul>
